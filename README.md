@@ -1,5 +1,5 @@
 ## Blindtest Discord Bot
-Ce bot Discord permet de lancer un blindtest en jouant 10 chansons au hasard depuis une playlist Spotify. Les joueurs peuvent deviner l'artiste et le titre de chaque chanson et marquer des points.
+Ce bot Discord permet de lancer un blindtest en jouant 10 chansons au hasard depuis une playlist **Spotify**. Les joueurs peuvent deviner l'artiste et le titre de chaque chanson et marquer des points.
 
 # Prérequis
   - Avoir créé un bot Discord et disposer de son token d'accès
@@ -25,7 +25,7 @@ Ce bot Discord permet de lancer un blindtest en jouant 10 chansons au hasard dep
 
 # Commandes
 - **!join** : permet au bot de se connecter au salon vocal
-- **!playlist ID_DE_LA_PLAYLIST** : permet de charger une playlist depuis son ID
+- **!playlist ID_DE_LA_PLAYLIST ou URL** : permet de charger une playlist SPOTIFY depuis son ID ou son URL
 - **!start** : permet de lancer le blindtest
 - **!guess artiste titre** : permet de deviner l'artiste et le titre de la chanson en cours de lecture
 
