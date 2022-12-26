@@ -1,0 +1,5 @@
+{
+  "discordToken": "YOUR_BOT_TOKEN",
+  "spotifyToken": "YOUR_SPOTIFY_TOKEN",
+  "deviceId": "YOUR_DEVICE_ID"
+}
