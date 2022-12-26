@@ -1,5 +1,6 @@
 const config = require('./config.json');
 
+const levenshtein = require('levenshtein');
 const Discord = require('discord.js');
 const SpotifyWrapper = require('spotify-wrapper');
 
